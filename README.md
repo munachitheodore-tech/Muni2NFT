@@ -1,2 +1,2 @@
-# muniNFT
-MuniNFT is a sample ERC-721 created in Techcrush web3 tutoring for cohorts.
+# Muni2NFT
+Muni2NFT is a sample ERC-721 created in Techcrush web3 tutoring for cohorts.
